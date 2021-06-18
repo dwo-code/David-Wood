@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @David-Wood
+- 👀 I’m interested in learning IOS app development + Web Development!
+- 🌱 I’m currently learning Swift + Html & CSS
+- 👀 Looking to build my knowledge and gain experience in programming!
